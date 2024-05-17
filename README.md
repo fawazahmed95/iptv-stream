@@ -1,5 +1,5 @@
 # Watch IPTV Online
 
 
-### Usage instruction:
-http://yielding-meeting.surge.sh
+### Usage instruction(Visit the following url):
+`http://yielding-meeting.surge.sh`
