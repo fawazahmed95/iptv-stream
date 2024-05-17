@@ -2,4 +2,4 @@
 
 
 ### Usage instruction:
-[Click Here](http://yielding-meeting.surge.sh)
+http://yielding-meeting.surge.sh
